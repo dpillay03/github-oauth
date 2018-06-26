@@ -1,6 +1,7 @@
 
 # Created by https://www.gitignore.io/api/vim,node,macos
-
+node_modules
+/node_modules
 ### macOS ###
 # General
 .DS_Store
